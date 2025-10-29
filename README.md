@@ -21,9 +21,6 @@ Transformo ideias em soluções funcionais, automatizações e integrações int
 - **Linguagens mais usadas**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePB1&layout=compact)
 
-- **Gráfico de atividade semanal**  
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=GuilhermePB1&theme=react-dark)](https://github.com/GuilhermePB1)
-
 ---
 
 ## 🌐 Contato
