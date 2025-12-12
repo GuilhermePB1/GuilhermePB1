@@ -1,25 +1,38 @@
-# 👋 Olá, eu sou o Guilherme Barbieri!
+# 👋 Olá! Eu sou o **Guilherme Barbieri**
 
-💻 Desenvolvedor focado em **PHP, JavaScript, CSS e Python**.  
-Transformo ideias em soluções funcionais, automatizações e integrações inteligentes.
+💻 Desenvolvedor **Backend** especializado em **Node.js** e criação de **APIs modernas, seguras e escaláveis**.  
+Atuo também no desenvolvimento **Full Stack**, com experiência em Python e nas principais tecnologias web como PHP, HTML, CSS e JavaScript.
+
+Gosto de transformar problemas complexos em soluções práticas e automatizadas, sempre prezando por código limpo, performance e boas práticas.
 
 ---
 
 ## 🧰 Tecnologias & Skills
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🌐 Frontend & Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📊 Estatísticas Interativas
-- **Resumo de contribuições públicas**  
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermePB1&show_icons=true&theme=default)
+## 📊 Estatísticas do GitHub
+<div align="center">
 
-- **Linguagens mais usadas**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePB1&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermePB1&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePB1&layout=compact&theme=transparent&hide_border=true)
+
+</div>
 
 ---
 
@@ -29,13 +42,15 @@ Transformo ideias em soluções funcionais, automatizações e integrações int
 
 ---
 
-## 💡 Curiosidades rápidas
-- ⚙️ Adoro automação e otimização de processos.  
-- 🎨 Valorizo design limpo e interfaces intuitivas.  
-- 🔍 Curioso por novas tecnologias e integração de sistemas.  
-- 🎮 Fora do código, gosto de games, música e tecnologia.
+## 💡 Sobre mim
+- 🚀 Focado em **backend** com experiência em APIs REST e integrações.  
+- 🧩 Gosto de entender o problema e propor soluções inteligentes e automatizadas.  
+- 🔍 Curioso e sempre estudando novas tecnologias do ecossistema Node.js.  
+- 🎨 Quando necessário, desenvolvo soluções completas como **Full Stack**.  
+- 🎮 Nas horas vagas: games, música, tecnologia e projetos pessoais.
 
 ---
 
 > ✨ *“Automatizar é transformar o complicado em eficiente.”*  
-Obrigado por visitar o perfil!
+
+Obrigado por visitar meu perfil! 🚀
