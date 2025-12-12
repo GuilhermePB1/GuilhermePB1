@@ -55,5 +55,3 @@ Gosto de transformar problemas complexos em soluções práticas e automatizadas
 
 Obrigado por visitar meu perfil! 🚀
 
-![snake gif dark](https://github.com/GuilhermePB1/GuilhermePB1/blob/output/snake-dark.svg)
-
